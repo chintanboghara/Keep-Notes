@@ -1,5 +1,3 @@
-## Keep Notes Web App using HTML, CSS, JavaScript
-
 ## A simple web application for keeping notes with the ability to add, edit, and delete notes.
 
 ## Introduction
